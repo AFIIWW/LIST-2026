@@ -3,3 +3,4 @@ Perjalanan Tahun 2026
 HTML
 CSS
 JAVASCRIVT
+FIGMA
